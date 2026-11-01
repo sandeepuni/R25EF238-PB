@@ -21,3 +21,5 @@ Work completed: Added a main function to the Hello World program using Live Shar
 
 Learning: GitLens helps identify who last changed a particular line of code and shows the related commit history
 
+## Documentation
+* Check out the [Project Documentation - Part 2](./README2.md) for additional details.
